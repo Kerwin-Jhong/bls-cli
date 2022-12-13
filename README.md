@@ -3,7 +3,7 @@
 Installation
 
 ```
-npm i -g git+ssh://github.com/SoftChef/bls-cli.git#master
+npm i -g git+ssh://github.com/Kerwin-Jhong/bls-cli.git#master
 ```
 
 please check if you have SoftChef's github access key in your .ssh
